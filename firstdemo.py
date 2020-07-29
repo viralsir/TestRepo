@@ -1,3 +1,4 @@
+import math;
 no1=int(input("Enter No:"))
 no2=int(input("Enter No:"))
 
@@ -7,3 +8,4 @@ if no1>no2:
 else :
     print(no2," is a maximum no");
 
+print("Factorial :",math.factorial(no1));
