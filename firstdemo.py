@@ -10,4 +10,4 @@ elif no2>no1 :
 else :
     print(no3," is a maximum no");
 
-print("Factorial :",math.factorial(no1));
+print("Factorial :",math.factorial(no2));
